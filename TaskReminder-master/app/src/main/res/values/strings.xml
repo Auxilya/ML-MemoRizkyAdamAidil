@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Memo</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_create_note">Tambah Memo</string>
+
+    <string name="title">Test</string>
+
+    <string name="detail">Small Text</string>
+
+
+    <string-array name="note_type">
+        <item>Penting</item>
+        <item>Notifikasi</item>
+
+    </string-array>
+
+    <string name="title_activity_information">Informasi</string>
+
+    <string name="title_activity_edit__note">Edit Memo</string>
+
+    <string name="New">Tambah Memo Baru</string>
+
+    <string name="back">Kembali</string>
+
+    <string name="save">Simpan Memo</string>
+
+    <string name="edit">Edit Memo</string>
+
+    <string name="discard">Buang Memo</string>
+
+    <string name="note_type_text">Pilih Jenis Memo:</string>
+
+    <string name="title_activity_alert">Peringatan</string>
+
+    <string name="Not_Set">Tidak Diatur</string>
+
+    <string name="hour_minutes">HH:mm</string>
+
+    <string name="alert_title">title</string>
+    <string name="set_notify">Atur Notifikasi</string>
+    <string name="added_alert">Sebuah Peringatan Telah Ditambahkan</string>
+    <string name="notify">Anda Akan Mendapatkan Notifikasi</string>
+    <string name="rodId">rowID</string>
+
+    <string name="Alertnotifty">"Alert: "</string>
+
+    <string name="alerttitle">title</string>
+
+    <string name="delete_title">Menghapus Memo</string>
+
+    <string name="delete_message">Anda Yakin?</string>
+
+    <string name="yes">Ya</string>
+
+    <string name="no">Tidak</string>
+
+    <string name="rodID">rowID</string>
+
+    <string name="rowID">rowID</string>
+
+    <string name="row_id">rowID</string>
+
+    <string name="intent_row_id">rowID</string>
+
+    <string name="row_id_long">rowID</string>
+
+    <string name="alarm_active">Alarm Ditambahkan!</string>
+
+    <string name="row_id_log">rowID</string>
+
+    <string name="title_hint">Masukkan Memo</string>
+
+    <string name="hint_description">Masukkan Deskripsi Memo</string>
+
+    <string name="set_alert">Pasang Peringatan</string>
+
+    <string name="textview_date">Pilih Tanggal</string>
+
+    <string name="txt_time">Masukkan Waktu:</string>
+
+    <string name="txt_edit_hint">Judul</string>
+
+    <string name="detail_hint">Keterangan</string>
+
+    <string name="type_note">Tipe Memo:</string>
+
+    <string name="view_title">Large Text</string>
+
+    <string name="view_detail">Medium Text</string>
+
+    <string name="note_type">Medium Text</string>
+
+    <string name="type_list_entry">Small Text</string>
+
+    <string name="time_vie">testtime</string>
+
+    <string name="alarmtext">Alert: </string>
+
+    <string name="dateformate">dd/MM/yyyy</string>
+
+    <string name="Not_Set_Alert">Tidak Diatur</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="title_msg">title</string>
+
+    <string name="titttle">title</string>
+    <string name="alert_content">alert_content</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
